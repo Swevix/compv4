@@ -171,8 +171,16 @@ SLC → symbol SLC | newline
 
 2) Реализовать алгоритм записи выражений в форме тетрад.
 ---
+### Интерфейс
+![image](https://github.com/user-attachments/assets/16f8972c-cae2-4e8a-8506-18ce73680709)
 
+### Пример работы
 
+![image](https://github.com/user-attachments/assets/07f64488-1a4a-42f7-a459-b325db5c4ef2)
+
+### Пример ошибки
+
+![image](https://github.com/user-attachments/assets/f26c9778-ae32-465f-902f-fae870908ed2)
 
 
 
